@@ -1,3 +1,4 @@
+
 # Modern Tic Tac Toe Game
 
 A modern, fully responsive Tic Tac Toe game built with **React**, **TypeScript**, **Vite**, and **Emotion** (CSS-in-JS).
@@ -113,3 +114,7 @@ MIT
 ---
 
 Built with ❤️ using modern web technologies
+
+# Mini Project
+  
+

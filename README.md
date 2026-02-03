@@ -11,7 +11,7 @@ A modern, fully responsive Tic Tac Toe game built with **React**, **TypeScript**
 - **Emotion** - Powerful CSS-in-JS styling
 - **npm** - Package manager
 
-## ✨ Features
+##  Features
 
 - ✅ Two-player gameplay (X and O)
 - ✅ Winner detection with modal overlay
@@ -33,10 +33,10 @@ Maintains the original design aesthetics with:
 - Smooth hover effects and animations
 
 
-## 🏃 Getting Started
+##  Getting Started
 
 
-## 🎮 How to Play
+##  How to Play
 
 1. Player X starts first
 2. Click any empty square to place your mark

@@ -3,7 +3,7 @@
 
 A modern, fully responsive Tic Tac Toe game built with **React**, **TypeScript**, **Vite**, and **Emotion** (CSS-in-JS).
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **React 18** - Modern UI library
 - **TypeScript** - Type-safe development
@@ -23,7 +23,7 @@ A modern, fully responsive Tic Tac Toe game built with **React**, **TypeScript**
 - ✅ Type-safe with TypeScript
 - ✅ Reusable design tokens and theme
 
-## 🎨 Design
+##  Design
 
 Maintains the original design aesthetics with:
 - Blue/purple gradient background
@@ -45,7 +45,7 @@ Maintains the original design aesthetics with:
 5. If all squares are filled with no winner, it's a draw
 6. Click "Reset Game" or "Start Game" to play again
 
-## 🧩 Component Architecture
+##  Component Architecture
 
 The game follows modern React best practices:
 - **Custom hooks** for game logic separation
@@ -54,7 +54,7 @@ The game follows modern React best practices:
 - **Design tokens** for consistent theming
 - **Modular components** for reusability
 
-## 🎯 Key Improvements Over Original
+##  Key Improvements Over Original
 
 1. **Modern Framework**: React + TypeScript instead of vanilla JS
 2. **CSS-in-JS**: Emotion for scoped, dynamic styling
